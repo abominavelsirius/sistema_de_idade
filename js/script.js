@@ -80,7 +80,7 @@ function verificar() {
             } else if (idade < 35) {
                 // adulto1
                 img.setAttribute('src', './img/mulher-adulta1.png')
-            } else if (idade < 48) {
+            } else if (idade < 52) {
                 // adulto2
                 img.setAttribute('src', './img/mulher-adulta2.png')
             } else if (idade < 68) {
